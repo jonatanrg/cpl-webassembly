@@ -304,7 +304,7 @@ The same problems could of course occur simply by bugs in your WebAssembly runti
 On the other hand, the interface is carefully designed and hopefully carefully implemented as well.
 And a program that cannot interact with the system on which it is executed is probably not a very useful program.
 There is an obvious need for interaction.
-So far, you have been interacting through a basic function call interace already.
+So far, you have been interacting through a basic function call interface already.
 Without this, you wouldn't be able to provide values or read results from the abstract WebAssembly stack machine.
 
 
